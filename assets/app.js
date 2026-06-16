@@ -1,4 +1,5 @@
 const $ = id => document.getElementById(id);
+const totalQuestions = () => Array.isArray(window.QUESTIONS) ? window.QUESTIONS.length : 0;
 
 let pool = [];
 let index = 0;
@@ -26,6 +27,18 @@ function updateStats(){
   renderWrongList();
 }
 
+function updateStaticLabels(){
+  const total = totalQuestions();
+  const label = $("totalLabel");
+  const allOption = $("allChapterOption");
+  if(label) label.textContent = total + " câu trắc nghiệm";
+  if(allOption) allOption.textContent = "Tất cả " + total + " câu";
+}
+
+function questionLabel(q){
+  return q && q.sourceLabel ? q.sourceLabel : "Câu gốc " + (q ? q.id : "--");
+}
+
 function start(){
   const chapter = $("chapterSelect").value;
   pool = window.QUESTIONS.filter(q => chapter === "all" || String(q.chapter) === chapter);
@@ -49,7 +62,7 @@ function render(){
 
   $("chapterLabel").textContent = q.chapterTitle;
   $("questionNumber").textContent = "Câu " + (index + 1) + "/" + pool.length;
-  $("originalNumber").textContent = "Câu gốc " + q.id;
+  $("originalNumber").textContent = questionLabel(q);
   $("questionText").innerHTML = highlightQuestion(q.question, q.keywords);
   $("keywordBox").className = "keyword-box hidden";
   $("keywordBox").textContent = "";
@@ -142,9 +155,10 @@ function renderWrongList(){
   wrap.className = "wrong-list";
   wrap.innerHTML = "";
   stats.wrongIds.slice(-40).forEach(id => {
+    const question = window.QUESTIONS.find(q => q.id === id);
     const btn = document.createElement("button");
     btn.className = "wrong-pill";
-    btn.textContent = "Câu gốc " + id;
+    btn.textContent = questionLabel(question || { id });
     btn.addEventListener("click", () => {
       pool = window.QUESTIONS.filter(q => q.id === id);
       index = 0;
@@ -249,5 +263,6 @@ $("showAnswerBtn").addEventListener("click", showAnswer);
 $("reviewWrongBtn").addEventListener("click", reviewWrong);
 $("resetProgressBtn").addEventListener("click", resetProgress);
 
+updateStaticLabels();
 updateStats();
 start();

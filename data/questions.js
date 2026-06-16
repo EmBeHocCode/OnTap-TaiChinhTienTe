@@ -129,7 +129,9 @@ window.QUESTIONS = [
     "chapter": 1,
     "chapterTitle": "Chương 1: Đại cương Tiền tệ",
     "question": "Một nền kinh tế chuyển từ hình thái giá trị mở rộng sang hình thái giá trị chung khi:",
-    "keywords": [],
+    "keywords": [
+      "nền kinh tế"
+    ],
     "options": {
       "A": "Thị trường quốc tế phát triển",
       "B": "Xuất hiện một vật ngang giá chung được chấp nhận rộng rãi",
@@ -458,7 +460,9 @@ window.QUESTIONS = [
     "chapter": 2,
     "chapterTitle": "Chương 2: Tín dụng và Lãi suất",
     "question": "Bản chất của tín dụng là quan hệ vay mượn dựa trên nguyên tắc:",
-    "keywords": [],
+    "keywords": [
+      "tín dụng"
+    ],
     "options": {
       "A": "Tự nguyện và không hoàn trả",
       "B": "Có hoàn trả, có thời hạn và có lợi tức",
@@ -490,7 +494,11 @@ window.QUESTIONS = [
     "chapter": 2,
     "chapterTitle": "Chương 2: Tín dụng và Lãi suất",
     "question": "Hình thức tín dụng nào diễn ra trực tiếp giữa các doanh nghiệp mua bán hàng hóa với nhau?",
-    "keywords": [],
+    "keywords": [
+      "mua bán hàng hóa",
+      "doanh nghiệp",
+      "tín dụng"
+    ],
     "options": {
       "A": "Tín dụng ngân hàng",
       "B": "Tín dụng Nhà nước",
@@ -900,7 +908,9 @@ window.QUESTIONS = [
     "chapter": 3,
     "chapterTitle": "Chương 3: Ngân hàng và Định chế tài chính",
     "question": "Hệ thống ngân hàng Việt Nam hiện nay được tổ chức theo mô hình nào?",
-    "keywords": [],
+    "keywords": [
+      "ngân hàng"
+    ],
     "options": {
       "A": "Mô hình 1 cấp",
       "B": "Mô hình 2 cấp (NHTW và các TCTD)",
@@ -1086,7 +1096,10 @@ window.QUESTIONS = [
     "chapter": 3,
     "chapterTitle": "Chương 3: Ngân hàng và Định chế tài chính",
     "question": "Quỹ đầu tư chứng khoán hoạt động dựa trên cơ chế nào?",
-    "keywords": [],
+    "keywords": [
+      "Quỹ đầu",
+      "chứng khoán"
+    ],
     "options": {
       "A": "Gom vốn nhỏ của nhiều nhà đầu tư thành quỹ lớn để đầu tư chuyên nghiệp",
       "B": "Phát hành tiền",
@@ -1297,7 +1310,9 @@ window.QUESTIONS = [
     "chapter": 3,
     "chapterTitle": "Chương 3: Ngân hàng và Định chế tài chính",
     "question": "Chi nhánh Ngân hàng nước ngoài tại Việt Nam hoạt động theo:",
-    "keywords": [],
+    "keywords": [
+      "ngân hàng"
+    ],
     "options": {
       "A": "Chỉ pháp luật nước sở tại (nước ngoài)",
       "B": "Quy định của Ngân hàng Nhà nước và pháp luật Việt Nam",
@@ -1349,7 +1364,9 @@ window.QUESTIONS = [
     "chapter": 4,
     "chapterTitle": "Chương 4: Lạm phát",
     "question": "Lạm phát là hiện tượng:",
-    "keywords": [],
+    "keywords": [
+      "lạm phát"
+    ],
     "options": {
       "A": "Mức giá của một vài hàng hóa tăng",
       "B": "Mức giá chung của nền kinh tế tăng lên liên tục",
@@ -1382,7 +1399,9 @@ window.QUESTIONS = [
     "chapter": 4,
     "chapterTitle": "Chương 4: Lạm phát",
     "question": "Chỉ số nào thường được sử dụng phổ biến nhất để đo lường lạm phát tác động đến đời sống người dân?",
-    "keywords": [],
+    "keywords": [
+      "lạm phát"
+    ],
     "options": {
       "A": "Chỉ số giảm phát GDP (GDP Deflator)",
       "B": "Chỉ số giá sản xuất (PPI)",
@@ -1542,7 +1561,9 @@ window.QUESTIONS = [
     "chapter": 4,
     "chapterTitle": "Chương 4: Lạm phát",
     "question": "Lạm phát làm cho thu nhập thực tế của người làm công ăn lương:",
-    "keywords": [],
+    "keywords": [
+      "lạm phát"
+    ],
     "options": {
       "A": "Không đổi",
       "B": "Tăng lên",
@@ -1744,7 +1765,9 @@ window.QUESTIONS = [
     "chapter": 4,
     "chapterTitle": "Chương 4: Lạm phát",
     "question": "Khoảng cách giàu nghèo trong xã hội bị ảnh hưởng thế nào bởi lạm phát cao?",
-    "keywords": [],
+    "keywords": [
+      "lạm phát"
+    ],
     "options": {
       "A": "Được thu hẹp lại",
       "B": "Không thay đổi",
@@ -1759,7 +1782,10 @@ window.QUESTIONS = [
     "chapter": 4,
     "chapterTitle": "Chương 4: Lạm phát",
     "question": "Lãi suất mà các ngân hàng niêm yết trên bảng thông báo được gọi là:",
-    "keywords": [],
+    "keywords": [
+      "ngân hàng",
+      "lãi suất"
+    ],
     "options": {
       "A": "Lãi suất thực",
       "B": "Lãi suất danh nghĩa",
@@ -2057,7 +2083,9 @@ window.QUESTIONS = [
     "chapter": 5,
     "chapterTitle": "Chương 5: Thị trường Tài chính",
     "question": "Ai là người chịu rủi ro cao nhất khi công ty phá sản?",
-    "keywords": [],
+    "keywords": [
+      "người chịu rủi"
+    ],
     "options": {
       "A": "Người nắm giữ trái phiếu công ty",
       "B": "Ngân hàng cho vay",
@@ -2238,7 +2266,9 @@ window.QUESTIONS = [
     "chapter": 6,
     "chapterTitle": "Chương 6: Bảo hiểm",
     "question": "Bảo hiểm là một cơ chế chuyển giao rủi ro dựa trên nguyên lý nào?",
-    "keywords": [],
+    "keywords": [
+      "bảo hiểm"
+    ],
     "options": {
       "A": "Lãi suất kép",
       "B": "Lạm phát chi phí đẩy",
@@ -2271,7 +2301,9 @@ window.QUESTIONS = [
     "chapter": 6,
     "chapterTitle": "Chương 6: Bảo hiểm",
     "question": "Hiện tượng những người có rủi ro cao lại là những người có xu hướng mua bảo hiểm nhiều nhất được gọi là:",
-    "keywords": [],
+    "keywords": [
+      "bảo hiểm"
+    ],
     "options": {
       "A": "Rủi ro đạo đức (Moral hazard)",
       "B": "Lựa chọn bất lợi (Adverse selection)",
@@ -2522,7 +2554,9 @@ window.QUESTIONS = [
     "chapter": 6,
     "chapterTitle": "Chương 6: Bảo hiểm",
     "question": "Tổn thất trong bảo hiểm được định nghĩa là:",
-    "keywords": [],
+    "keywords": [
+      "bảo hiểm"
+    ],
     "options": {
       "A": "Những hư hỏng thông thường do hao mòn",
       "B": "Thiệt hại thực tế do một rủi ro bất ngờ, ngẫu nhiên gây ra",
@@ -2661,7 +2695,10 @@ window.QUESTIONS = [
     "chapter": 6,
     "chapterTitle": "Chương 6: Bảo hiểm",
     "question": "Việc công ty bảo hiểm sử dụng chuyên gia đánh giá rủi ro trước khi ký hợp đồng nhằm mục đích giảm thiểu:",
-    "keywords": [],
+    "keywords": [
+      "bảo hiểm",
+      "mục đích"
+    ],
     "options": {
       "A": "Lợi nhuận",
       "B": "Số lượng khách hàng",
@@ -2890,7 +2927,10 @@ window.QUESTIONS = [
     "chapter": 7,
     "chapterTitle": "Chương 7: Tài chính Doanh nghiệp",
     "question": "Hao mòn tài sản cố định được hạch toán vào doanh nghiệp thông qua khoản mục nào?",
-    "keywords": [],
+    "keywords": [
+      "tài sản cố định",
+      "doanh nghiệp"
+    ],
     "options": {
       "A": "Lợi nhuận giữ lại",
       "B": "Khấu hao tài sản cố định",
@@ -2993,7 +3033,9 @@ window.QUESTIONS = [
     "chapter": 7,
     "chapterTitle": "Chương 7: Tài chính Doanh nghiệp",
     "question": "Vòng quay các khoản phải thu càng cao cho thấy doanh nghiệp:",
-    "keywords": [],
+    "keywords": [
+      "doanh nghiệp"
+    ],
     "options": {
       "A": "Bị chiếm dụng vốn nhiều",
       "B": "Thu hồi nợ từ khách hàng nhanh và hiệu quả",
@@ -3109,5 +3151,956 @@ window.QUESTIONS = [
     },
     "answer": "D",
     "answerText": "Huy động nợ vay trên thị trường vốn"
+  },
+  {
+    "id": 176,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 37,
+    "azOrder": 1,
+    "sourceLabel": "Câu A-Z 1 - gốc 37",
+    "question": "Ba (3) nghiệp vụ nào thể hiện đúng bản chất của NHTM?",
+    "keywords": [
+      "bản chất của NHTM",
+      "nghiệp vụ"
+    ],
+    "options": {
+      "A": "Nghiệp vụ môi giới, quản lý TS và đầu tư.",
+      "B": "Nghiệp vụ thanh toán, tư vấn và phát hành thẻ.",
+      "C": "Nghiệp vụ huy động vốn, bảo hiểm và đầu tư.",
+      "D": "Nghiệp vụ TS Nợ, TS Có, trung gian hoa hồng."
+    },
+    "answer": "D",
+    "answerText": "Nghiệp vụ TS Nợ, TS Có, trung gian hoa hồng."
+  },
+  {
+    "id": 177,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 41,
+    "azOrder": 2,
+    "sourceLabel": "Câu A-Z 2 - gốc 41",
+    "question": "\"Chi phí biến đổi\" (Biến phí) của doanh nghiệp có đặc điểm là gì?",
+    "keywords": [
+      "Chi phí biến đổi",
+      "Biến phí"
+    ],
+    "options": {
+      "A": "Luôn cố định bất kể sản lượng sản xuất tăng hay giảm.",
+      "B": "Thay đổi trực tiếp theo quy mô sản lượng sản xuất.",
+      "C": "Gồm các khoản như chi phí khấu hao TSCĐ, tiền thuê mặt bằng.",
+      "D": "Luôn tồn tại dưới hình thái vật chất như máy móc, nhà xưởng."
+    },
+    "answer": "B",
+    "answerText": "Thay đổi trực tiếp theo quy mô sản lượng sản xuất."
+  },
+  {
+    "id": 178,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 26,
+    "azOrder": 3,
+    "sourceLabel": "Câu A-Z 3 - gốc 26",
+    "question": "Chức năng nào của tín dụng giúp luân chuyển vốn từ nơi thừa sang nơi thiếu để đưa vào sản xuất?",
+    "keywords": [
+      "luân chuyển vốn",
+      "nơi thừa sang nơi thiếu"
+    ],
+    "options": {
+      "A": "Chức năng tạo tiền.",
+      "B": "Chức năng giám đốc các hoạt động kinh tế.",
+      "C": "Chức năng phân phối lại nguồn vốn.",
+      "D": "Chức năng huy động vốn."
+    },
+    "answer": "C",
+    "answerText": "Chức năng phân phối lại nguồn vốn."
+  },
+  {
+    "id": 179,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 12,
+    "azOrder": 4,
+    "sourceLabel": "Câu A-Z 4 - gốc 12",
+    "question": "Chức năng nào được coi là chức năng đặc trưng nhất, phản ánh bản chất của Ngân hàng thương mại?",
+    "keywords": [
+      "chức năng đặc trưng",
+      "bản chất của Ngân hàng thương mại"
+    ],
+    "options": {
+      "A": "Chức năng thủ quỹ cho khách hàng.",
+      "B": "Chức năng trung gian thanh toán.",
+      "C": "Chức năng trung gian tín dụng.",
+      "D": "Chức năng cung cấp dịch vụ bảo hiểm."
+    },
+    "answer": "C",
+    "answerText": "Chức năng trung gian tín dụng."
+  },
+  {
+    "id": 180,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 11,
+    "azOrder": 5,
+    "sourceLabel": "Câu A-Z 5 - gốc 11",
+    "question": "Chức năng phân phối của tài chính chủ yếu nhằm mục đích gì?",
+    "keywords": [
+      "Chức năng phân phối",
+      "tài chính"
+    ],
+    "options": {
+      "A": "Cân đối giữa sản xuất và tiêu dùng.",
+      "B": "Hình thành và sử dụng các quỹ tiền tệ nhằm đáp ứng các nhu cầu khác nhau.",
+      "C": "Đảm bảo mọi người dân đều có thu nhập bằng nhau.",
+      "D": "Kiểm soát tình trạng lạm phát trong nền kinh tế."
+    },
+    "answer": "B",
+    "answerText": "Hình thành và sử dụng các quỹ tiền tệ nhằm đáp ứng các nhu cầu khác nhau."
+  },
+  {
+    "id": 181,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 36,
+    "azOrder": 6,
+    "sourceLabel": "Câu A-Z 6 - gốc 36",
+    "question": "Cơ sở quan trọng nhất để hình thành quan hệ tín dụng (Credit) là gì?",
+    "keywords": [
+      "quan hệ tín dụng",
+      "Credit"
+    ],
+    "options": {
+      "A": "Quy định bắt buộc của Nhà nước.",
+      "B": "Sự dư thừa hàng hóa trong xã hội.",
+      "C": "Lòng tin hay sự tín nhiệm giữa người cho vay và người đi vay.",
+      "D": "Nhu cầu mua sắm hàng xa xỉ của dân cư."
+    },
+    "answer": "C",
+    "answerText": "Lòng tin hay sự tín nhiệm giữa người cho vay và người đi vay."
+  },
+  {
+    "id": 182,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 23,
+    "azOrder": 7,
+    "sourceLabel": "Câu A-Z 7 - gốc 23",
+    "question": "Công cụ nào sau đây là đặc trưng của hình thức Tín dụng thương mại?",
+    "keywords": [
+      "Tín dụng thương mại",
+      "Công cụ"
+    ],
+    "options": {
+      "A": "Giấy bạc ngân hàng.",
+      "B": "Thương phiếu.",
+      "C": "Trái phiếu doanh nghiệp do Cty đó phát hành.",
+      "D": "Thẻ tín dụng quốc tế."
+    },
+    "answer": "B",
+    "answerText": "Thương phiếu."
+  },
+  {
+    "id": 183,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 10,
+    "azOrder": 8,
+    "sourceLabel": "Câu A-Z 8 - gốc 10",
+    "question": "Đặc điểm nào sau đây KHÔNG đúng với tài chính hộ gia đình?",
+    "keywords": [
+      "tài chính hộ gia đình",
+      "KHÔNG đúng"
+    ],
+    "options": {
+      "A": "Chủ yếu phục vụ cho mục đích tiêu dùng.",
+      "B": "Nguồn thu chủ yếu từ tiền lương, tiền công và các khoản thu nhập khác.",
+      "C": "Hoạt động với mục tiêu tối đa hóa lợi nhuận xã hội.",
+      "D": "Có sự tích lũy (tiết kiệm) để dự phòng rủi ro."
+    },
+    "answer": "C",
+    "answerText": "Hoạt động với mục tiêu tối đa hóa lợi nhuận xã hội."
+  },
+  {
+    "id": 184,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 21,
+    "azOrder": 9,
+    "sourceLabel": "Câu A-Z 9 - gốc 21",
+    "question": "Đặc điểm nào sau đây phân biệt quan hệ tín dụng với quan hệ mua bán hàng hóa thông thường?",
+    "keywords": [
+      "quan hệ tín dụng",
+      "mua bán hàng hóa"
+    ],
+    "options": {
+      "A": "Có sự trao đổi giá trị giữa hai bên.",
+      "B": "Chỉ có một bên nhượng đi giá trị và bên kia nhận giá trị tại một thời điểm.",
+      "C": "Luôn được thực hiện bằng tiền mặt.",
+      "D": "Không cần sự tin tưởng lẫn nhau."
+    },
+    "answer": "B",
+    "answerText": "Chỉ có một bên nhượng đi giá trị và bên kia nhận giá trị tại một thời điểm."
+  },
+  {
+    "id": 185,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 34,
+    "azOrder": 10,
+    "sourceLabel": "Câu A-Z 10 - gốc 34",
+    "question": "Để một hàng hoá có thể trở thành tiền, hàng hoá đó phải:",
+    "keywords": [
+      "hàng hoá",
+      "trở thành tiền"
+    ],
+    "options": {
+      "A": "Do chính phủ sản xuất ra.",
+      "B": "Được chấp nhận rộng rãi làm phương tiện thanh toán",
+      "C": "Được đảm bảo bằng vàng hoặc bạc.",
+      "D": "b và c."
+    },
+    "answer": "B",
+    "answerText": "Được chấp nhận rộng rãi làm phương tiện thanh toán"
+  },
+  {
+    "id": 186,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 8,
+    "azOrder": 11,
+    "sourceLabel": "Câu A-Z 11 - gốc 8",
+    "question": "Điểm khác biệt cơ bản nhất giữa Thị trường tiền tệ và Thị trường vốn là gì?",
+    "keywords": [
+      "Thị trường tiền tệ",
+      "Thị trường vốn"
+    ],
+    "options": {
+      "A": "Khối lượng vốn giao dịch trên thị trường.",
+      "B": "Mức độ rủi ro của các công cụ tài chính.",
+      "C": "Thời hạn chuyển giao vốn (ngắn hạn so với trung/dài hạn).",
+      "D": "Sự tham gia của Ngân hàng Nhà nước."
+    },
+    "answer": "C",
+    "answerText": "Thời hạn chuyển giao vốn (ngắn hạn so với trung/dài hạn)."
+  },
+  {
+    "id": 187,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 16,
+    "azOrder": 12,
+    "sourceLabel": "Câu A-Z 12 - gốc 16",
+    "question": "Điểm khác biệt mấu chốt giữa Định chế tài chính phi ngân hàng và Ngân hàng là gì?",
+    "keywords": [
+      "Định chế tài chính phi ngân hàng",
+      "Ngân hàng"
+    ],
+    "options": {
+      "A": "Không được thực hiện hoạt động cho vay, tài trợ vốn các DA lớn.",
+      "B": "Không cần vốn tự có tối thiểu.",
+      "C": "Không được nhận tiền gửi không kỳ hạn và không làm dịch vụ thanh toán.",
+      "D": "Chỉ hoạt động vì những mục tiêu, chính sách do Nhà nước đề ra nhằm giảm thiểu và đẩy lùi Tín dụng đen trong nền kinh tế."
+    },
+    "answer": "C",
+    "answerText": "Không được nhận tiền gửi không kỳ hạn và không làm dịch vụ thanh toán."
+  },
+  {
+    "id": 188,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 28,
+    "azOrder": 13,
+    "sourceLabel": "Câu A-Z 13 - gốc 28",
+    "question": "Điểm khác biệt mấu chốt về \"chủ thể phát hành\" giữa Hối phiếu (Bill of Exchange) và Lệnh phiếu (Promissory Note) trong tín dụng thương mại là gì?",
+    "keywords": [
+      "chủ thể phát hành",
+      "Hối phiếu",
+      "Lệnh phiếu",
+      "tín dụng thương mại"
+    ],
+    "options": {
+      "A": "Hối phiếu do người mua lập; Lệnh phiếu: người bán lập.",
+      "B": "Hối phiếu do chủ nợ lập; Lệnh phiếu do người nợ lập.",
+      "C": "Hối phiếu luôn có sự bảo lãnh của ngân hàng, lệnh phiếu thì không.",
+      "D": "Cả hai đều do ngân hàng phát hành thay cho DN."
+    },
+    "answer": "B",
+    "answerText": "Hối phiếu do chủ nợ lập; Lệnh phiếu do người nợ lập."
+  },
+  {
+    "id": 189,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 18,
+    "azOrder": 14,
+    "sourceLabel": "Câu A-Z 14 - gốc 18",
+    "question": "Giả sử NHTW quy định tỷ lệ DTBB là 10%. KH gửi vào Ngân hàng A 100 triệu đồng. Nếu các NHTM luôn giữ 5% dự trữ thừa và KH luôn rút 10% tiền mặt trên tổng tiền gửi thanh toán, tổng bút tệ (D) tối đa hệ thống NH tạo ra từ khoản tiền gửi này là bao nhiêu?",
+    "keywords": [
+      "tỷ lệ DTBB",
+      "dự trữ thừa",
+      "tiền mặt trên tổng tiền gửi thanh toán",
+      "bút tệ"
+    ],
+    "options": {
+      "A": "1.000 triệu đồng.",
+      "B": "400 triệu đồng.",
+      "C": "500 triệu đồng.",
+      "D": "666,67 triệu đồng."
+    },
+    "answer": "B",
+    "answerText": "400 triệu đồng."
+  },
+  {
+    "id": 190,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 42,
+    "azOrder": 15,
+    "sourceLabel": "Câu A-Z 15 - gốc 42",
+    "question": "\"Hao mòn vô hình\" của tài sản cố định xảy ra chủ yếu do nguyên nhân nào?",
+    "keywords": [
+      "Hao mòn vô hình",
+      "tài sản cố định"
+    ],
+    "options": {
+      "A": "Do tác động của môi trường làm tài sản bị rỉ sét, hư hỏng.",
+      "B": "Do cường độ sử dụng máy móc quá lớn trong thời gian dài.",
+      "C": "Do sự tiến bộ của khoa học công nghệ làm xuất hiện máy móc mới hiện đại hơn hoặc rẻ hơn.",
+      "D": "Do công nhân vận hành máy móc không đúng quy trình kỹ thuật."
+    },
+    "answer": "C",
+    "answerText": "Do sự tiến bộ của khoa học công nghệ làm xuất hiện máy móc mới hiện đại hơn hoặc rẻ hơn."
+  },
+  {
+    "id": 191,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 13,
+    "azOrder": 16,
+    "sourceLabel": "Câu A-Z 16 - gốc 13",
+    "question": "Hình thái tiền tệ nào được tạo ra từ hoạt động tín dụng của hệ thống Ngân hàng thương mại?",
+    "keywords": [
+      "Hình thái tiền tệ",
+      "hoạt động tín dụng",
+      "Ngân hàng thương mại"
+    ],
+    "options": {
+      "A": "Tiền giấy và tiền kim loại.",
+      "B": "Tiền pháp định (Fiat money).",
+      "C": "Bút tệ (Tiền ghi sổ).",
+      "D": "Tiền tín dụng."
+    },
+    "answer": "C",
+    "answerText": "Bút tệ (Tiền ghi sổ)."
+  },
+  {
+    "id": 192,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 1,
+    "azOrder": 17,
+    "sourceLabel": "Câu A-Z 17 - gốc 1",
+    "question": "Hoạt động nào sau đây thuộc về \"Tài chính công\"?",
+    "keywords": [
+      "Tài chính công"
+    ],
+    "options": {
+      "A": "Công ty A phát hành cổ phiếu để huy động vốn.",
+      "B": "Hộ gia đình ông B vay tiền ngân hàng để mua nhà.",
+      "C": "Nhà nước thu thuế thu nhập cá nhân để chi cho giáo dục và y tế.",
+      "D": "Quỹ đầu tư C mua trái phiếu chính phủ."
+    },
+    "answer": "C",
+    "answerText": "Nhà nước thu thuế thu nhập cá nhân để chi cho giáo dục và y tế."
+  },
+  {
+    "id": 193,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 17,
+    "azOrder": 18,
+    "sourceLabel": "Câu A-Z 18 - gốc 17",
+    "question": "Kênh phát hành tiền nào của NHTW giúp tăng lượng tiền cung ứng thông qua việc mua các giấy tờ có giá trên thị trường?",
+    "keywords": [
+      "phát hành tiền",
+      "NHTW",
+      "lượng tiền cung ứng",
+      "giấy tờ có giá"
+    ],
+    "options": {
+      "A": "Kênh Ngân sách Nhà nước.",
+      "B": "Kênh thị trường mở.",
+      "C": "Kênh thị trường ngoại hối.",
+      "D": "Kênh phát hành trực tiếp cho dân cư."
+    },
+    "answer": "B",
+    "answerText": "Kênh thị trường mở."
+  },
+  {
+    "id": 194,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 30,
+    "azOrder": 19,
+    "sourceLabel": "Câu A-Z 19 - gốc 30",
+    "question": "Khi DN thanh toán tiền để mua hàng theo một giá cả nào đấy thì tiền tệ đã phát huy chức năng:",
+    "keywords": [
+      "DN",
+      "tiền tệ",
+      "chức năng"
+    ],
+    "options": {
+      "A": "Phương tiện thanh toán.",
+      "B": "Phương tiện trao đổi.",
+      "C": "Thước đo giá trị.",
+      "D": "b và c."
+    },
+    "answer": "D",
+    "answerText": "b và c."
+  },
+  {
+    "id": 195,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 38,
+    "azOrder": 20,
+    "sourceLabel": "Câu A-Z 20 - gốc 38",
+    "question": "Khi NHTW thực hiện nghiệp vụ thị trường mở (OMO) bằng cách bán trái phiếu Chính phủ cho các NHTM, tác động GIÁN TIẾP lớn nhất đến nền kinh tế là gì?",
+    "keywords": [
+      "nghiệp vụ thị trường mở",
+      "OMO",
+      "trái phiếu Chính phủ",
+      "NHTM"
+    ],
+    "options": {
+      "A": "Nguồn tiền dự trữ của các NHTM giảm, làm tăng lãi suất thị trường và thu hẹp tín dụng.",
+      "B": "Lượng tiền mặt trong túi dân cư tăng lên.",
+      "C": "Ngân sách Nhà nước sẽ bị thâm hụt nặng nề.",
+      "D": "Các NHTM sẽ có thêm vốn để cho vay nhiều hơn."
+    },
+    "answer": "A",
+    "answerText": "Nguồn tiền dự trữ của các NHTM giảm, làm tăng lãi suất thị trường và thu hẹp tín dụng."
+  },
+  {
+    "id": 196,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 25,
+    "azOrder": 21,
+    "sourceLabel": "Câu A-Z 21 - gốc 25",
+    "question": "Lãi suất danh nghĩa (nominal rate) khác lãi suất thực (real rate) ở yếu tố nào?",
+    "keywords": [
+      "lãi suất danh nghĩa",
+      "nominal rate",
+      "lãi suất thực",
+      "real rate"
+    ],
+    "options": {
+      "A": "Tỷ lệ lạm phát dự tính.",
+      "B": "Chi phí quản lý của ngân hàng.",
+      "C": "Thời hạn của khoản vay.",
+      "D": "Mức độ rủi ro của người vay."
+    },
+    "answer": "A",
+    "answerText": "Tỷ lệ lạm phát dự tính."
+  },
+  {
+    "id": 197,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 3,
+    "azOrder": 22,
+    "sourceLabel": "Câu A-Z 22 - gốc 3",
+    "question": "Một cá nhân mua bảo hiểm nhân thọ cho bản thân. Hoạt động này thể hiện chức năng nào của tài chính?",
+    "keywords": [
+      "bảo hiểm nhân thọ",
+      "chức năng",
+      "tài chính"
+    ],
+    "options": {
+      "A": "Chức năng giám đốc.",
+      "B": "Chức năng điều tiết vĩ mô.",
+      "C": "Chức năng huy động vốn.",
+      "D": "Chức năng phân phối."
+    },
+    "answer": "D",
+    "answerText": "Chức năng phân phối."
+  },
+  {
+    "id": 198,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 27,
+    "azOrder": 23,
+    "sourceLabel": "Câu A-Z 23 - gốc 27",
+    "question": "Một ngân hàng công bố lãi suất cho vay là 12%/năm, kỳ hạn tính lãi là 3 tháng/lần (lãi nhập gốc). Lãi suất hiệu dụng (effective rate) mà người vay thực tế phải trả cuối năm là bao nhiêu?",
+    "keywords": [
+      "lãi suất cho vay",
+      "lãi nhập gốc",
+      "lãi suất hiệu dụng",
+      "effective rate"
+    ],
+    "options": {
+      "A": "12%/năm.",
+      "B": "12,36%/năm.",
+      "C": "12,55%/năm.",
+      "D": "13%/năm."
+    },
+    "answer": "C",
+    "answerText": "12,55%/năm."
+  },
+  {
+    "id": 199,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 19,
+    "azOrder": 24,
+    "sourceLabel": "Câu A-Z 24 - gốc 19",
+    "question": "Một NHTM đang đối mặt với tình trạng “Rủi ro thanh khoản”. Theo lý thuyết về hệ thống ngân hàng 2 cấp, công cụ nào sau đây được coi là “cứu cánh cuối cùng” của ngân hàng này?",
+    "keywords": [
+      "Rủi ro thanh khoản",
+      "ngân hàng 2 cấp",
+      "cứu cánh cuối cùng",
+      "NHTM"
+    ],
+    "options": {
+      "A": "Huy động thêm tiền gửi từ dân cư với lãi suất cực cao.",
+      "B": "Bán tháo toàn bộ trụ sở và máy móc thiết bị.",
+      "C": "Vay tái cấp vốn từ Ngân hàng Trung ương.",
+      "D": "Phát hành thêm cổ phiếu phổ thông trên thị trường chứng khoán."
+    },
+    "answer": "C",
+    "answerText": "Vay tái cấp vốn từ Ngân hàng Trung ương."
+  },
+  {
+    "id": 200,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 5,
+    "azOrder": 25,
+    "sourceLabel": "Câu A-Z 25 - gốc 5",
+    "question": "Một quốc gia có thị trường tài chính phát triển sẽ mang lại lợi ích gì cho nền kinh tế?",
+    "keywords": [
+      "thị trường tài chính",
+      "lợi ích",
+      "nền kinh tế"
+    ],
+    "options": {
+      "A": "Chủ yếu là các doanh nghiệp lớn vay vốn dễ dàng hơn.",
+      "B": "Tăng hiệu quả sử dụng vốn, kích thích tiết kiệm và thúc đẩy năng suất lao động xã hội.",
+      "C": "Giúp Chính phủ in được nhiều tiền hơn mà không sợ lạm phát.",
+      "D": "Loại bỏ hoàn toàn mọi rủi ro trong kinh doanh cho các chủ thể."
+    },
+    "answer": "B",
+    "answerText": "Tăng hiệu quả sử dụng vốn, kích thích tiết kiệm và thúc đẩy năng suất lao động xã hội."
+  },
+  {
+    "id": 201,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 33,
+    "azOrder": 26,
+    "sourceLabel": "Câu A-Z 26 - gốc 33",
+    "question": "Mức độ thanh khoản của một tài sản được xác định bởi yếu tố nào?",
+    "keywords": [
+      "thanh khoản",
+      "tài sản"
+    ],
+    "options": {
+      "A": "Chi phí thời gian để chuyển tài sản đó thành tiền mặt",
+      "B": "Chi phí tài chính để chuyển tài sản đó thành tiền mặt",
+      "C": "Khả năng tài sản có thể được bán một cách dễ dàng với giá thị trường",
+      "D": "Cả a và b"
+    },
+    "answer": "D",
+    "answerText": "Cả a và b"
+  },
+  {
+    "id": 202,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 20,
+    "azOrder": 27,
+    "sourceLabel": "Câu A-Z 27 - gốc 20",
+    "question": "Nếu Ngân hàng trung ương phát hành 3.000 tỷ đồng tiền cơ sở, tỷ lệ dự trữ bắt buộc là 12%, tỷ lệ dự trữ thừa là 2%, và khối lượng tiền giao dịch tối đa (M1) có thể được tạo ra là 8.000 tỷ đồng. Tỷ lệ tiền mặt trên tiền gửi thanh toán là bao nhiêu?",
+    "keywords": [
+      "tiền cơ sở",
+      "dự trữ bắt buộc",
+      "dự trữ thừa",
+      "M1"
+    ],
+    "options": {
+      "A": "37,6%.",
+      "B": "34,6%.",
+      "C": "25,8%.",
+      "D": "35,22%."
+    },
+    "answer": "A",
+    "answerText": "37,6%."
+  },
+  {
+    "id": 203,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 15,
+    "azOrder": 28,
+    "sourceLabel": "Câu A-Z 28 - gốc 15",
+    "question": "Ngân hàng Trung ương (NHTW) thực hiện chức năng “Ngân hàng của các ngân hàng” thông qua hoạt động nào sau đây?",
+    "keywords": [
+      "Ngân hàng Trung ương",
+      "NHTW",
+      "Ngân hàng của các ngân hàng"
+    ],
+    "options": {
+      "A": "Mở tài khoản, nhận tiền gửi và cấp tín dụng cho các ngân hàng thương mại.",
+      "B": "Nhận tiền gửi và cấp tín dụng cho các cá nhân, doanh nghiệp.",
+      "C": "In tiền và phát hành tiền cho các ngân hàng thương mại.",
+      "D": "Thu thuế và chi ngân sách cho xã hội."
+    },
+    "answer": "A",
+    "answerText": "Mở tài khoản, nhận tiền gửi và cấp tín dụng cho các ngân hàng thương mại."
+  },
+  {
+    "id": 204,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 14,
+    "azOrder": 29,
+    "sourceLabel": "Câu A-Z 29 - gốc 14",
+    "question": "Nghiệp vụ nào của NHTM được ghi bên phần “Nguồn vốn” (Tài sản Nợ) trên Bảng cân đối kế toán ngân hàng?",
+    "keywords": [
+      "NHTM",
+      "Nguồn vốn",
+      "Tài sản Nợ",
+      "Bảng cân đối kế toán"
+    ],
+    "options": {
+      "A": "Nghiệp vụ cấp tín dụng (cho vay).",
+      "B": "Nghiệp vụ huy động tiền gửi từ khách hàng.",
+      "C": "Nghiệp vụ đầu tư chứng khoán.",
+      "D": "Nghiệp vụ ngân quỹ (dự trữ tiền mặt)."
+    },
+    "answer": "B",
+    "answerText": "Nghiệp vụ huy động tiền gửi từ khách hàng."
+  },
+  {
+    "id": 205,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 4,
+    "azOrder": 30,
+    "sourceLabel": "Câu A-Z 30 - gốc 4",
+    "question": "Nguồn vốn nào đóng vai trò chủ đạo trong hệ thống Tài chính của một quốc gia?",
+    "keywords": [
+      "Nguồn vốn",
+      "hệ thống Tài chính"
+    ],
+    "options": {
+      "A": "Vốn của các doanh nghiệp trong nước.",
+      "B": "Vốn vay từ các tổ chức tài chính quốc tế (như IMF, WB).",
+      "C": "Vốn từ Ngân sách nhà nước.",
+      "D": "Vốn đầu tư trực tiếp nước ngoài (FDI)."
+    },
+    "answer": "C",
+    "answerText": "Vốn từ Ngân sách nhà nước."
+  },
+  {
+    "id": 206,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 2,
+    "azOrder": 31,
+    "sourceLabel": "Câu A-Z 31 - gốc 2",
+    "question": "Nhận định nào sau đây là KHÔNG chính xác về chức năng của Tài chính?",
+    "keywords": [
+      "KHÔNG chính xác",
+      "chức năng của Tài chính"
+    ],
+    "options": {
+      "A": "Phân phối và phân phối lại tổng sản phẩm quốc dân.",
+      "B": "Giám đốc bằng tiền đối với các hoạt động kinh tế.",
+      "C": "Trực tiếp sản xuất ra của cải vật chất cho xã hội.",
+      "D": "Điều tiết vĩ mô nền kinh tế thông qua các chính sách tài chính."
+    },
+    "answer": "C",
+    "answerText": "Trực tiếp sản xuất ra của cải vật chất cho xã hội."
+  },
+  {
+    "id": 207,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 9,
+    "azOrder": 32,
+    "sourceLabel": "Câu A-Z 32 - gốc 9",
+    "question": "Tại sao nói Tài chính doanh nghiệp là khâu cơ sở của hệ thống tài chính?",
+    "keywords": [
+      "Tài chính doanh nghiệp",
+      "khâu cơ sở",
+      "hệ thống tài chính"
+    ],
+    "options": {
+      "A": "Vì nó tạo ra nguồn thu lớn nhất cho Ngân sách nhà nước.",
+      "B": "Vì nó trực tiếp tạo ra của cải vật chất và GDP cho nền kinh tế.",
+      "C": "Vì nó là nơi tập trung nhiều vốn nhất.",
+      "D": "Vì nó giải quyết việc làm cho đa số người lao động."
+    },
+    "answer": "B",
+    "answerText": "Vì nó trực tiếp tạo ra của cải vật chất và GDP cho nền kinh tế."
+  },
+  {
+    "id": 208,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 35,
+    "azOrder": 33,
+    "sourceLabel": "Câu A-Z 33 - gốc 35",
+    "question": "Theo Hiệu ứng Fisher, nếu lạm phát dự tính trong năm tới tăng thêm 3%, trong khi lãi suất thực không đổi, thì lãi suất danh nghĩa trên thị trường sẽ biến động như thế nào?",
+    "keywords": [
+      "Hiệu ứng Fisher",
+      "lạm phát dự tính",
+      "lãi suất thực",
+      "lãi suất danh nghĩa"
+    ],
+    "options": {
+      "A": "Giảm 3%.",
+      "B": "Không đổi.",
+      "C": "Tăng thêm khoảng 3%.",
+      "D": "Tăng thêm không quá 2%."
+    },
+    "answer": "C",
+    "answerText": "Tăng thêm khoảng 3%."
+  },
+  {
+    "id": 209,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 32,
+    "azOrder": 34,
+    "sourceLabel": "Câu A-Z 34 - gốc 32",
+    "question": "Theo lý thuyết về cầu tiền tệ của J.M.Keynes:",
+    "keywords": [
+      "cầu tiền tệ",
+      "J.M.Keynes"
+    ],
+    "options": {
+      "A": "Sở thích chi tiêu của công chúng có ảnh hưởng đến nhu cầu tiền",
+      "B": "Lãi suất chịu ảnh hưởng tỷ lệ nghịch với lượng tiền đưa vào lưu thông",
+      "C": "Sự ưa thích tiền mặt phát sinh từ ba động cơ: giao dịch; dự phòng; đầu cơ",
+      "D": "Cả 3 đáp án trên"
+    },
+    "answer": "D",
+    "answerText": "Cả 3 đáp án trên"
+  },
+  {
+    "id": 210,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 22,
+    "azOrder": 35,
+    "sourceLabel": "Câu A-Z 35 - gốc 22",
+    "question": "Theo thời hạn tín dụng, loại tín dụng nào thường dùng để bổ sung thiếu hụt tạm thời vốn lưu động cho doanh nghiệp?",
+    "keywords": [
+      "thời hạn tín dụng",
+      "tín dụng",
+      "vốn lưu động"
+    ],
+    "options": {
+      "A": "Tín dụng ngắn hạn (dưới hoặc bằng 1 năm).",
+      "B": "Tín dụng trung hạn (>1 đến 5 năm).",
+      "C": "Tín dụng dài hạn (trên 5 năm).",
+      "D": "Tín dụng định kỳ (cứ đến kỳ thiếu hụt)."
+    },
+    "answer": "A",
+    "answerText": "Tín dụng ngắn hạn (dưới hoặc bằng 1 năm)."
+  },
+  {
+    "id": 211,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 24,
+    "azOrder": 36,
+    "sourceLabel": "Câu A-Z 36 - gốc 24",
+    "question": "Tín dụng Nhà nước được thực hiện chủ yếu nhằm mục đích gì?",
+    "keywords": [
+      "Tín dụng Nhà nước",
+      "mục đích"
+    ],
+    "options": {
+      "A": "Kinh doanh kiếm lợi nhuận từ dân cư.",
+      "B": "Bù đắp khoản bội chi Ngân sách Nhà nước.",
+      "C": "Thay thế hoàn toàn tín dụng ngân hàng.",
+      "D": "Tài trợ cho các doanh nghiệp nước ngoài."
+    },
+    "answer": "B",
+    "answerText": "Bù đắp khoản bội chi Ngân sách Nhà nước."
+  },
+  {
+    "id": 212,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 39,
+    "azOrder": 37,
+    "sourceLabel": "Câu A-Z 37 - gốc 39",
+    "question": "Tổ chức nào sau đây KHÔNG phải là định chế tài chính phi ngân hàng?",
+    "keywords": [
+      "KHÔNG phải",
+      "định chế tài chính phi ngân hàng"
+    ],
+    "options": {
+      "A": "Công ty bảo hiểm.",
+      "B": "Quỹ đầu tư.",
+      "C": "NHTM.",
+      "D": "Công ty tài chính."
+    },
+    "answer": "C",
+    "answerText": "NHTM."
+  },
+  {
+    "id": 213,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 44,
+    "azOrder": 38,
+    "sourceLabel": "Câu A-Z 38 - gốc 44",
+    "question": "Trình tự phân phối lợi nhuận sau thuế của doanh nghiệp thường ưu tiên việc nào sau đây đầu tiên?",
+    "keywords": [
+      "phân phối lợi nhuận sau thuế",
+      "doanh nghiệp"
+    ],
+    "options": {
+      "A": "Trả cổ tức cho các cổ đông hoặc lãi cho các bên liên doanh.",
+      "B": "Trích lập quỹ khen thưởng, phúc lợi cho nhân viên.",
+      "C": "Nộp thuế thu nhập doanh nghiệp cho ngân sách nhà nước.",
+      "D": "Trích lập quỹ dự phòng tài chính."
+    },
+    "answer": "D",
+    "answerText": "Trích lập quỹ dự phòng tài chính."
+  },
+  {
+    "id": 214,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 6,
+    "azOrder": 39,
+    "sourceLabel": "Câu A-Z 39 - gốc 6",
+    "question": "Trong bối cảnh lạm phát tăng cao, Ngân hàng Trung ương thường áp dụng chính sách gì đối với lãi suất cơ bản?",
+    "keywords": [
+      "lạm phát tăng cao",
+      "Ngân hàng Trung ương",
+      "lãi suất cơ bản"
+    ],
+    "options": {
+      "A": "Tăng lãi suất cơ bản để giảm lượng tiền lưu thông.",
+      "B": "Giảm lãi suất cơ bản để kích thích tiêu dùng.",
+      "C": "Giữ nguyên lãi suất và phát hành thêm tiền.",
+      "D": "Giảm lãi suất cơ bản để hỗ trợ doanh nghiệp vay vốn."
+    },
+    "answer": "A",
+    "answerText": "Tăng lãi suất cơ bản để giảm lượng tiền lưu thông."
+  },
+  {
+    "id": 215,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 31,
+    "azOrder": 40,
+    "sourceLabel": "Câu A-Z 40 - gốc 31",
+    "question": "Trong các chức năng của tiền tệ:",
+    "keywords": [
+      "chức năng của tiền tệ"
+    ],
+    "options": {
+      "A": "Chức năng phương tiện trao đổi phản ánh bản chất của tiền tệ.",
+      "B": "Chức năng cất trữ giá trị là chức năng chỉ có ở tiền tệ.",
+      "C": "Chức năng tiền tệ thế giới là chức năng mới nhất.",
+      "D": "Cả a và b."
+    },
+    "answer": "D",
+    "answerText": "Cả a và b."
+  },
+  {
+    "id": 216,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 29,
+    "azOrder": 41,
+    "sourceLabel": "Câu A-Z 41 - gốc 29",
+    "question": "Trong chế độ bản vị Dollar Mỹ:",
+    "keywords": [
+      "bản vị Dollar Mỹ"
+    ],
+    "options": {
+      "A": "Dollar Mỹ được sử dụng để dự trữ phát hành và thanh toán quốc tế ở các nước thuộc IMF",
+      "B": "Mỹ công bố tiêu chuẩn giá cả Dollar Mỹ, chấp nhận chuyển đổi dollar giấy ra vàng từ lượng thặng dư mậu dịch",
+      "C": "Các nước thuộc IMF phát hành tiền chỉ dựa vào lượng Dollar Mỹ giấy dự trữ",
+      "D": "Cả 3 đáp án trên"
+    },
+    "answer": "D",
+    "answerText": "Cả 3 đáp án trên"
+  },
+  {
+    "id": 217,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 43,
+    "azOrder": 42,
+    "sourceLabel": "Câu A-Z 42 - gốc 43",
+    "question": "Trong cơ cấu nguồn vốn, \"Nợ phải trả\" khác với \"Vốn chủ sở hữu\" ở điểm căn bản nào?",
+    "keywords": [
+      "cơ cấu nguồn vốn",
+      "Nợ phải trả",
+      "Vốn chủ sở hữu"
+    ],
+    "options": {
+      "A": "Vốn chủ sở hữu phải trả lãi cố định hàng tháng.",
+      "B": "Nợ phải trả là nghĩa vụ mà doanh nghiệp phải thanh toán cho các chủ nợ theo thời hạn cam kết.",
+      "C": "Nợ phải trả mang lại quyền điều hành DN cho người cho vay.",
+      "D": "Vốn chủ sở hữu sẽ được hoàn trả cho chủ sở hữu trước khi trả nợ cho các bên khác khi doanh nghiệp phá sản."
+    },
+    "answer": "B",
+    "answerText": "Nợ phải trả là nghĩa vụ mà doanh nghiệp phải thanh toán cho các chủ nợ theo thời hạn cam kết."
+  },
+  {
+    "id": 218,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 40,
+    "azOrder": 43,
+    "sourceLabel": "Câu A-Z 43 - gốc 40",
+    "question": "Việc doanh nghiệp sử dụng \"Nợ vay\" thay vì \"Vốn cổ phần\" để tài trợ cho dự án sẽ có lợi hơn khi nào?",
+    "keywords": [
+      "Nợ vay",
+      "Vốn cổ phần",
+      "tài trợ cho dự án"
+    ],
+    "options": {
+      "A": "Khi doanh nghiệp đang gặp khó khăn về khả năng thanh toán.",
+      "B": "Khi hiệu quả thực tế của dự án cao hơn lãi suất tiền vay.",
+      "C": "Khi lãi suất cho vay trên thị trường đang có xu hướng tăng cao.",
+      "D": "Khi doanh nghiệp muốn giảm bớt trách nhiệm pháp lý đối với tài sản."
+    },
+    "answer": "B",
+    "answerText": "Khi hiệu quả thực tế của dự án cao hơn lãi suất tiền vay."
+  },
+  {
+    "id": 219,
+    "chapter": 8,
+    "chapterTitle": "Chương 8: Tổng hợp thêm",
+    "sourceId": 7,
+    "azOrder": 44,
+    "sourceLabel": "Câu A-Z 44 - gốc 7",
+    "question": "Yếu tố nào sau đây không thuộc cấu trúc của hệ thống tài chính xét theo luân chuyển vốn?",
+    "keywords": [
+      "cấu trúc của hệ thống tài chính",
+      "luân chuyển vốn"
+    ],
+    "options": {
+      "A": "Tài chính công.",
+      "B": "Thị trường tài chính.",
+      "C": "Các chủ thể tham gia.",
+      "D": "Cơ sở hạ tầng pháp lý."
+    },
+    "answer": "D",
+    "answerText": "Cơ sở hạ tầng pháp lý."
   }
 ];

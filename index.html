@@ -4,16 +4,20 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Ôn tập Tài chính – Tiền tệ – Ngân hàng</title>
-  <link rel="stylesheet" href="assets/style.css?v=mobile-490" />
+  <link rel="stylesheet" href="assets/style.css?v=mobile-490-total-219" />
 </head>
 <body>
   <div class="app-shell">
     <aside class="sidebar">
-      <div class="brand"><div class="logo">₫</div><div><h1>Ôn tập Tài chính</h1><p>175 câu trắc nghiệm</p></div></div>
+      <div class="brand">
+      <div class="logo">
+        <img src="assets/icon/avatar.gif" alt="Avatar ôn tập">
+      </div>
+      <div><h1>Ôn tập Tài chính</h1><p id="totalLabel">219 câu trắc nghiệm</p></div></div>
       <div class="panel">
         <label>Chọn chương</label>
         <select id="chapterSelect">
-          <option value="all">Tất cả 175 câu</option>
+          <option value="all" id="allChapterOption">Tất cả 219 câu</option>
           <option value="1">Chương 1: Đại cương Tiền tệ</option>
           <option value="2">Chương 2: Tín dụng & Lãi suất</option>
           <option value="3">Chương 3: Ngân hàng & Định chế tài chính</option>
@@ -21,6 +25,7 @@
           <option value="5">Chương 5: Thị trường Tài chính</option>
           <option value="6">Chương 6: Bảo hiểm</option>
           <option value="7">Chương 7: Tài chính Doanh nghiệp</option>
+          <option value="8">Chương 8: Tổng hợp thêm</option>
         </select>
         <label>Chế độ</label>
         <select id="modeSelect"><option value="learn">Học từng câu</option><option value="quiz">Làm bài kiểm tra</option></select>
@@ -47,6 +52,6 @@
       <section class="review card"><div class="review-head"><h3>Câu cần ôn lại</h3><button id="reviewWrongBtn" class="secondary">Ôn câu sai</button></div><div id="wrongList" class="wrong-list empty">Chưa có câu sai nào. Ngon nha.</div></section>
     </main>
   </div>
-  <script src="data/questions.js?v=keywords-docx"></script><script src="assets/app.js?v=keywords-docx"></script>
+  <script src="data/questions.js?v=total-219"></script><script src="assets/app.js?v=total-219"></script>
 </body>
 </html>
