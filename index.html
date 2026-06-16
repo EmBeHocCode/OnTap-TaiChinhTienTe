@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ôn tập Tài chính – Tiền tệ – Ngân hàng</title>
+  <link rel="stylesheet" href="assets/style.css?v=mobile-490" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><div class="logo">₫</div><div><h1>Ôn tập Tài chính</h1><p>175 câu trắc nghiệm</p></div></div>
+      <div class="panel">
+        <label>Chọn chương</label>
+        <select id="chapterSelect">
+          <option value="all">Tất cả 175 câu</option>
+          <option value="1">Chương 1: Đại cương Tiền tệ</option>
+          <option value="2">Chương 2: Tín dụng & Lãi suất</option>
+          <option value="3">Chương 3: Ngân hàng & Định chế tài chính</option>
+          <option value="4">Chương 4: Lạm phát</option>
+          <option value="5">Chương 5: Thị trường Tài chính</option>
+          <option value="6">Chương 6: Bảo hiểm</option>
+          <option value="7">Chương 7: Tài chính Doanh nghiệp</option>
+        </select>
+        <label>Chế độ</label>
+        <select id="modeSelect"><option value="learn">Học từng câu</option><option value="quiz">Làm bài kiểm tra</option></select>
+        <label>Số câu</label>
+        <select id="limitSelect"><option value="all">Tất cả câu trong chương</option><option value="10">10 câu nhanh</option><option value="25">25 câu</option><option value="50">50 câu tổng ôn</option></select>
+        <label class="check"><input type="checkbox" id="shuffleToggle" checked><span>Trộn thứ tự câu</span></label>
+        <label class="check"><input type="checkbox" id="shuffleOptionsToggle"><span>Trộn đáp án A/B/C/D</span></label>
+        <button id="startBtn" class="primary">Bắt đầu / Làm lại</button>
+        <button id="resetProgressBtn" class="ghost">Xóa tiến độ</button>
+      </div>
+      <div class="panel stats"><div><span>Đúng</span><b id="correctCount">0</b></div><div><span>Sai</span><b id="wrongCount">0</b></div><div><span>Đã làm</span><b id="doneCount">0</b></div></div>
+      <div class="panel tips"><b>Mẹo học nhanh</b><p>Đọc keyword tím → tự đoán đáp án → bấm kiểm tra. Sai câu nào thì web tự gom vào mục ôn lại.</p></div>
+    </aside>
+    <main class="main">
+      <header class="topbar"><div><p class="eyebrow" id="chapterLabel">Sẵn sàng ôn tập</p><h2 id="mainTitle">Tài chính – Tiền tệ – Ngân hàng</h2></div><div class="progress-wrap"><div class="progress-info"><span id="progressText">0/0</span></div><div class="progress"><div id="progressBar"></div></div></div></header>
+      <section class="card" id="questionCard">
+        <div class="question-meta"><span id="questionNumber">Câu --</span><span id="originalNumber">Câu gốc --</span></div>
+        <h3 id="questionText">Bấm “Bắt đầu” để vào bài nha.</h3>
+        <div id="keywordBox" class="keyword-box hidden"></div>
+        <div id="options" class="options"></div>
+        <div id="feedback" class="feedback hidden"></div>
+        <div class="actions"><button id="prevBtn" class="ghost">← Câu trước</button><button id="showAnswerBtn" class="secondary">Hiện đáp án</button><button id="nextBtn" class="primary">Câu tiếp →</button></div>
+      </section>
+      <section class="review card"><div class="review-head"><h3>Câu cần ôn lại</h3><button id="reviewWrongBtn" class="secondary">Ôn câu sai</button></div><div id="wrongList" class="wrong-list empty">Chưa có câu sai nào. Ngon nha.</div></section>
+    </main>
+  </div>
+  <script src="data/questions.js?v=keywords-docx"></script><script src="assets/app.js?v=keywords-docx"></script>
+</body>
+</html>
