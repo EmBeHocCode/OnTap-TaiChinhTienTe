@@ -171,9 +171,12 @@ function renderWrongList(){
 
 function reviewWrong(){
   if(!stats.wrongIds.length) return;
-  pool = window.QUESTIONS.filter(q => stats.wrongIds.includes(q.id));
+  const wrongPool = stats.wrongIds
+    .map(id => window.QUESTIONS.find(q => q.id === id))
+    .filter(Boolean);
+  pool = $("shuffleToggle").checked ? shuffle(wrongPool) : wrongPool;
   index = 0;
-  $("mainTitle").textContent = "Ôn " + pool.length + " câu sai";
+  $("mainTitle").textContent = ($("shuffleToggle").checked ? "Ôn random " : "Ôn ") + pool.length + " câu sai";
   render();
 }
 
